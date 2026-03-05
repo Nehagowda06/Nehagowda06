@@ -32,3 +32,10 @@ Distributed System Concepts
 ## Tools & Technologies
 
 Python • REST APIs • PostgreSQL • Docker • Git
+
+---
+
+## Current Work
+
+• Building backend infrastructure projects  
+• Studying distributed systems and algorithm design
